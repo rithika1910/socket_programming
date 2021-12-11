@@ -1,0 +1,6 @@
+Last week's DATE (from): 31-07-2021
+Today's DATE (to): 24-07-2021
+MEAN : 3.043
+MAX : 5.0
+MIN : 1.0
+	***WEEK'S PERFORMANCE RATE*** : 60.851%
